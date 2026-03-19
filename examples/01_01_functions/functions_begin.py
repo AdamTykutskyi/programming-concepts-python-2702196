@@ -11,7 +11,7 @@ def make_omelette():
     omelette = 'a tasty omelette'
     return omelette
 #fare per due
-barron_breakfast = make_omelette()
-olivia_breakfast = make_omelette()
+adam_breakfast = make_omelette()
+ale_breakfast = make_omelette()
 print(f'Adam is having {adam_breakfast}\n')
 print(f'Ale is having {ale_breakfast}\n')
